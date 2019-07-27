@@ -1,6 +1,6 @@
 # College Degrees in the US
 
-This repository contains the source data for my [blog post](http://bldavies.com/blog/college-degrees-demographics/) on college degrees in the US.
+This repository contains the source data for my [first](http://bldavies.com/blog/college-degrees-demographics/), [second](http://bldavies.com/blog/college-degrees-similarity-measures/) and [third](http://bldavies.com/blog/college-degrees-community-detection/) blog posts on college degrees in the US.
 
 ## Data
 
